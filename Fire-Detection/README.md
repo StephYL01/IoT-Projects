@@ -1,4 +1,4 @@
-# 🔥 IoT Automotive Fire & Gas Detection System
+# 🔥 IoT Fire & Gas Detection System
 
 An advanced, ESP32-based smart monitoring system designed for automotive environments. This project continuously monitors ambient temperature and combustible gas concentrations, providing local visual/audible alerts and real-time cloud logging via Firebase.
 
